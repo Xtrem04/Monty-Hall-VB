@@ -1,0 +1,61 @@
+C:\Users\xxmig\Desktop\Monty Hall\Project\bin\Debug\Monty Hall.exe.config
+C:\Users\xxmig\Desktop\Monty Hall\Project\bin\Debug\Monty Hall.exe
+C:\Users\xxmig\Desktop\Monty Hall\Project\bin\Debug\Monty Hall.pdb
+C:\Users\xxmig\Desktop\Monty Hall\Project\bin\Debug\Monty Hall.xml
+C:\Users\xxmig\Desktop\Monty Hall\Project\obj\Debug\Monty Hall.vbproj.AssemblyReference.cache
+C:\Users\xxmig\Desktop\Monty Hall\Project\obj\Debug\Project.Form1.resources
+C:\Users\xxmig\Desktop\Monty Hall\Project\obj\Debug\Project.Form2.resources
+C:\Users\xxmig\Desktop\Monty Hall\Project\obj\Debug\Project.Resources.resources
+C:\Users\xxmig\Desktop\Monty Hall\Project\obj\Debug\Project.Resource1.resources
+C:\Users\xxmig\Desktop\Monty Hall\Project\obj\Debug\Monty Hall.vbproj.GenerateResource.cache
+C:\Users\xxmig\Desktop\Monty Hall\Project\obj\Debug\Monty Hall.vbproj.CoreCompileInputs.cache
+C:\Users\xxmig\Desktop\Monty Hall\Project\obj\Debug\Monty Hall.exe
+C:\Users\xxmig\Desktop\Monty Hall\Project\obj\Debug\Monty Hall.xml
+C:\Users\xxmig\Desktop\Monty Hall\Project\obj\Debug\Monty Hall.pdb
+C:\Users\xxmig\Desktop\Project\Monty Hall\obj\Debug\Monty Hall.vbproj.AssemblyReference.cache
+C:\Users\xxmig\Desktop\Project\Monty Hall\obj\Debug\Monty Hall.vbproj.SuggestedBindingRedirects.cache
+C:\Users\xxmig\Desktop\Project\Monty Hall\obj\Debug\MontyHall.Form1.resources
+C:\Users\xxmig\Desktop\Project\Monty Hall\obj\Debug\MontyHall.Form2.resources
+C:\Users\xxmig\Desktop\Project\Monty Hall\obj\Debug\MontyHall.Form3.resources
+C:\Users\xxmig\Desktop\Project\Monty Hall\obj\Debug\MontyHall.Resources.resources
+C:\Users\xxmig\Desktop\Project\Monty Hall\obj\Debug\MontyHall.Resource1.resources
+C:\Users\xxmig\Desktop\Project\Monty Hall\obj\Debug\Monty Hall.vbproj.GenerateResource.cache
+C:\Users\xxmig\Desktop\Project\Monty Hall\obj\Debug\Monty Hall.vbproj.CoreCompileInputs.cache
+C:\Users\xxmig\Desktop\Project\Monty Hall\obj\Debug\Monty Hall.exe
+C:\Users\xxmig\Desktop\Project\Monty Hall\obj\Debug\Monty Hall.xml
+C:\Users\xxmig\Desktop\Project\Monty Hall\obj\Debug\Monty Hall.pdb
+C:\Users\xxmig\Desktop\Project\Monty Hall\bin\Debug\Monty Hall.exe.config
+C:\Users\xxmig\Desktop\Project\Monty Hall\bin\Debug\Monty Hall.exe
+C:\Users\xxmig\Desktop\Project\Monty Hall\bin\Debug\Monty Hall.pdb
+C:\Users\xxmig\Desktop\Project\Monty Hall\bin\Debug\Monty Hall.xml
+C:\Users\xxmig\Desktop\Monty Hall\bin\Debug\Monty Hall.exe.config
+C:\Users\xxmig\Desktop\Monty Hall\bin\Debug\Monty Hall.exe
+C:\Users\xxmig\Desktop\Monty Hall\bin\Debug\Monty Hall.pdb
+C:\Users\xxmig\Desktop\Monty Hall\bin\Debug\Monty Hall.xml
+C:\Users\xxmig\Desktop\Monty Hall\obj\Debug\Monty Hall.vbproj.AssemblyReference.cache
+C:\Users\xxmig\Desktop\Monty Hall\obj\Debug\Monty Hall.vbproj.SuggestedBindingRedirects.cache
+C:\Users\xxmig\Desktop\Monty Hall\obj\Debug\MontyHall.Form1.resources
+C:\Users\xxmig\Desktop\Monty Hall\obj\Debug\MontyHall.Form2.resources
+C:\Users\xxmig\Desktop\Monty Hall\obj\Debug\MontyHall.Form3.resources
+C:\Users\xxmig\Desktop\Monty Hall\obj\Debug\MontyHall.Resources.resources
+C:\Users\xxmig\Desktop\Monty Hall\obj\Debug\MontyHall.Resource1.resources
+C:\Users\xxmig\Desktop\Monty Hall\obj\Debug\Monty Hall.vbproj.GenerateResource.cache
+C:\Users\xxmig\Desktop\Monty Hall\obj\Debug\Monty Hall.vbproj.CoreCompileInputs.cache
+C:\Users\xxmig\Desktop\Monty Hall\obj\Debug\Monty Hall.exe
+C:\Users\xxmig\Desktop\Monty Hall\obj\Debug\Monty Hall.xml
+C:\Users\xxmig\Desktop\Monty Hall\obj\Debug\Monty Hall.pdb
+C:\Users\xxmig\Documents\Code\Monty Hall\bin\Debug\Monty Hall.exe.config
+C:\Users\xxmig\Documents\Code\Monty Hall\bin\Debug\Monty Hall.exe
+C:\Users\xxmig\Documents\Code\Monty Hall\bin\Debug\Monty Hall.pdb
+C:\Users\xxmig\Documents\Code\Monty Hall\bin\Debug\Monty Hall.xml
+C:\Users\xxmig\Documents\Code\Monty Hall\obj\Debug\Monty Hall.vbproj.AssemblyReference.cache
+C:\Users\xxmig\Documents\Code\Monty Hall\obj\Debug\MontyHall.Form1.resources
+C:\Users\xxmig\Documents\Code\Monty Hall\obj\Debug\MontyHall.Form2.resources
+C:\Users\xxmig\Documents\Code\Monty Hall\obj\Debug\MontyHall.Form3.resources
+C:\Users\xxmig\Documents\Code\Monty Hall\obj\Debug\MontyHall.Resources.resources
+C:\Users\xxmig\Documents\Code\Monty Hall\obj\Debug\MontyHall.Resource1.resources
+C:\Users\xxmig\Documents\Code\Monty Hall\obj\Debug\Monty Hall.vbproj.GenerateResource.cache
+C:\Users\xxmig\Documents\Code\Monty Hall\obj\Debug\Monty Hall.vbproj.CoreCompileInputs.cache
+C:\Users\xxmig\Documents\Code\Monty Hall\obj\Debug\Monty Hall.exe
+C:\Users\xxmig\Documents\Code\Monty Hall\obj\Debug\Monty Hall.xml
+C:\Users\xxmig\Documents\Code\Monty Hall\obj\Debug\Monty Hall.pdb
